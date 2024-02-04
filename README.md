@@ -10,6 +10,5 @@ The outliers are lookup row-wise and they accounted for 5.87% of the data, havin
 ## Modelling:
 As the linear regression model is not giving a good Adj.R-squared score. Among all the models built, Bagging and Gradient Boosting Algorithms were giving good Adj.R-squared scores.
 
-
-
-
+## Dashboard Link:
+https://public.tableau.com/app/profile/mahejabeenab/viz/Housepricesanalysiswashington/Housepricesanalysis
